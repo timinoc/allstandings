@@ -31,7 +31,7 @@ function postMessage() {
 
   body = {
     "bot_id" : botID,
-    "text" : "4th Downs in 1st-3rd Quarter - You may go for it on 4th and 1 or less once you cross the 50 yard line up to your opponent’s 30 yard line.  From the 30 yard line and closer, kick the ball. \n\n4th Downs when taking a beating late in the 3rd Quarter - If you are down by 21 or more with less than 5 minutes in the 3rd quarter you may go for it on 4th & 1 or less beginning from your own 40 yard line. \n\n4th Downs in 4th Quarter -  On 4th & G on the 1 yard line, you can go for it if you are tied, losing, or up by 3 or less. If you are up by 4 or more in that situation you need to kick the FG since that would put you up by 7 or more. \n\nIf you are down by more than 8 points or more in the 4th quarter it is entirely up to you when you go for it on 4th.  If you are down by any score and it is less than 5 minutes left in the 4th you can go for it on 4th down. \n\n4th Downs in Overtime - There are no rules.  Do what you want. "
+    "text" : "@Atlmoneyman is still terrible.  Woe is him. \n\n SeanJohn is still tanking to get Braddie.  \n\n Rob Mack quit.  Again.  \n\nThere are currently six undefeated teams in PSFL Season 2. \n\nEzekiel Elliot leads the league in rushing.  \n\nMistah AllWorld is back.  Watch out!"
   };
 
   console.log('sending ' + botResponse + ' to ' + botID);
