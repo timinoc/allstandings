@@ -31,7 +31,7 @@ function postMessage() {
 
   body = {
     "bot_id" : botID,
-    "text" : "@Atlmoneyman is still terrible.  Woe is him. \n\n SeanJohn is still tanking to get Braddie.  \n\n Rob Mack quit.  Again.  \n\nThere are currently six undefeated teams in PSFL Season 2. \n\nEzekiel Elliot leads the league in rushing.  \n\nMistah AllWorld is back.  Watch out!"
+    "text" : "https://www.twitch.tv/thebeastmws/v/102873610"
   };
 
   console.log('sending ' + botResponse + ' to ' + botID);
