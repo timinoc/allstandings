@@ -31,7 +31,7 @@ function postMessage() {
 
   body = {
     "bot_id" : botID,
-    "text" : "https://www.youtube.com/watch?v=i13CX-NXdL8"
+    "text" : "https://www.youtube.com/watch?v=JxmkVyMPEkg"
   };
 
   console.log('sending ' + botResponse + ' to ' + botID);
